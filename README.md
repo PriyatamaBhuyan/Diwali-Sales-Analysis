@@ -26,7 +26,7 @@ The dataset consists of transactional details from Diwali sales, including:
 **Skills**
       Libraries: pandas, matplotlib, seaborn
 
-_Check out the full project and visualizations on my GitHub repository_ : 
+_Check out the full project and visualizations on my GitHub repository_ :  https://github.com/PriyatamaBhuyan/Diwali-Sales-Analysis/blob/main/Diwali_Sales_Analysis.ipynb
 
 
 
